@@ -1,4 +1,4 @@
-# JavaScript Reference
+# JavaScript Handbook
 
 A concise guide to mastering JavaScript concepts, ES6+, and more.
 
